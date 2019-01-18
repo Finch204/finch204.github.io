@@ -5,7 +5,7 @@ permalink:           /:title/
 
 # Setup
 title:               Solo Player's Logbook
-tagline:             - an online gaming journal by Finch204
+tagline:             '- an online gaming journal by Finch204'
 description:         Solo Player's Logbook
 url:                 
 baseurl:             'https://finch204.github.io'
