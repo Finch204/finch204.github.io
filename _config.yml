@@ -1,10 +1,10 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /:title/
 
 # Setup
-title:               A Solo Player's Logbook
+title:               Finch204
 tagline:             A Solo Player's Logbook
 description:         A Solo Player's Logbook
 url:                 
