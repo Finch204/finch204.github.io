@@ -4,11 +4,11 @@
 permalink:           /:title/
 
 # Setup
-title:               Finch204
-tagline:             A Solo Player's Logbook
-description:         A Solo Player's Logbook
+title:               A Solo Player's Logbook
+tagline:             An online gaming journal by Finch204
+description:         An online gaming journal by Finch204
 url:                 
-baseurl:             'finch204.github.io'
+baseurl:             'https://finch204.github.io'
 paginate:            5
 
 # About/contact
