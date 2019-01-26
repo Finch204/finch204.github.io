@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-I'm awesome but haven't found time to update this page just yet.
+I'm a Level 30 something Human Dad who loves playing single player games, be it tabletop games or video games.
