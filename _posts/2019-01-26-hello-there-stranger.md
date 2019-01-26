@@ -1,3 +1,5 @@
+---
+layout: post
 Title: Hello there Stranger! Plus some lessons learned in Flight from Moria.
 Tags: [Introduction, Lord of the Rings, Living Card Game]
 ---
