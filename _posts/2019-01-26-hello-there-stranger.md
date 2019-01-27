@@ -30,7 +30,7 @@ points of damage to a hero usually means they end up dead.
 
 ### Sudden Pitfall
 
-<img src="/images/Sudden-Pitfall.jpg" class="img-float-right" alt="Sudden Pitfall" title="Sudden Pitfall">
+<img src="/images/sudden-pitfall.jpg" class="img-float-right" alt="Sudden Pitfall" title="Sudden Pitfall">
 
 Beware the [Sudden Pitfall Treachery card](http://hallofbeorn.com/LotR/Details/Sudden-Pitfall-KD). This card will ruin your 
 game if you're not careful. I mean decreasing the damage this treachery card does seems pretty straightforward; just always 
