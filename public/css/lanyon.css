@@ -567,3 +567,9 @@ a.pagination-item:hover {
     height: auto;
     float: right;
 }
+
+.img-float-left {
+    max-width: 13%;
+    height: auto;
+    float: left;
+}
