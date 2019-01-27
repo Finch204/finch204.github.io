@@ -563,13 +563,17 @@ a.pagination-item:hover {
 }
 
 .img-float-right {
-    max-width: 13%;
+    max-width: 200px;
     height: auto;
     float: right;
+    margin-top: 10px;
+    margin-right: 10px;
 }
 
 .img-float-left {
-    max-width: 13%;
+    max-width: 200px;
     height: auto;
     float: left;
+    margin-top: 10px;
+    margin-right: 10px;
 }
