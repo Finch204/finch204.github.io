@@ -45,8 +45,7 @@ instead, so that Gimli could be readied later by Erebor Record Keeper. That ende
 
 ### Need a way to know the Top Card on the Encounter Deck
 
-Without spoiling a very important Stage 2 quest card in the Flight From Moria scenario, I will just say that having a way to 
-know what the top card on the encounter deck is, is going to make your life easier with this scenario. You can still probably 
-win without that ability, but this scenario is hard enough as it is to play solo, having a card that can "scry" will certainly 
-help. So a card like [Rumour from the Earth](http://hallofbeorn.com/LotR/Details/Rumour-from-the-Earth-RtM) or 
+Lastly, without spoiling a very important Stage 2 quest card in the Flight From Moria scenario, I will just say that having a way to know what the top card on the encounter deck is, is going to make your life easier with this scenario. You can still probably win without that ability, but this scenario is hard enough as it is to play solo, having a card that can "scry" will certainly help. So a card like [Rumour from the Earth](http://hallofbeorn.com/LotR/Details/Rumour-from-the-Earth-RtM) or 
 [Henamarth Riversong](http://hallofbeorn.com/LotR/Details/Henamarth-Riversong-Core) will help a lot.
+
+So that's it for my first post. Hopefully other people would have learned something from this post. I'm taking a breather from playing this quest but will definitely give it a go again in the future. I will not move forward to another quest until I beat this one.
