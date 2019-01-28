@@ -1,7 +1,7 @@
 ---
 layout: post
-Title: Hello there Stranger! Plus some lessons learned in Flight from Moria.
-Tags: [Introduction, Lord of the Rings, Living Card Game]
+title: Hello there Stranger! Plus some lessons learned in Flight from Moria.
+tags: [Introduction, Lord of the Rings, Living Card Game]
 ---
 I probably could have waited until tomorrow to officially create this blog, but I had some free time so why not make use of it, 
 right? Actually I was debating with myself as to whether I should just play another game of Lord of the Rings LCG, or work on 
