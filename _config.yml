@@ -9,7 +9,7 @@ tagline:             An online gaming journal by Finch204
 description:         Chronicles of Finch
 url:                 
 baseurl:             'https://finch204.github.io'
-paginate:            5
+#paginate:            5
 
 # About/contact
 author:
